@@ -7,9 +7,17 @@ ul {
 a:hover {
     color: #038669;
   }
+  a.imglink{
+    background:#000;
+    display: inline-block;
+  }
+a.imglink:hover img{
+    opacity: 0.5;
+  }
 a:link {
     color: black;
 }
+
 
   h2 {
       color: 

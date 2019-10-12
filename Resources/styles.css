@@ -20,12 +20,12 @@ a:link {
 
 
   h2 {
-      color: 
+      color:
       #038669;
   }
   h1 {
-      color: white;
-      background-color:#038669;
+      color: #038669;
+      padding-right:500px;
   }
   footer {
     display: block;

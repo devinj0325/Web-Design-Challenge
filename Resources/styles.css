@@ -5,10 +5,10 @@ ul {
     background-color: white;
 }
 a:hover {
-    color: #038669;
+    color: #0eada6;
   }
   a.imglink{
-    background:#038669;
+    background:#0eada6;
     display: inline-block;
   }
 a.imglink:hover img{
@@ -17,19 +17,18 @@ a.imglink:hover img{
 a:link {
     color: black;
 }
-
-
   h2 {
       color:
-      #038669;
+      #0eada6;
   }
   h1 {
-      color: #038669;
+      color: white;
       padding-right:500px;
+      background-color: #0eada6;
   }
   footer {
     display: block;
-    background-color:#038669;
+    background-color:#0eada6;
     text-align: center;
     color:white;
   }
